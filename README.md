@@ -1,0 +1,2 @@
+# projecteuler
+some solutions
